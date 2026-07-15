@@ -6,7 +6,7 @@ Most recently I built VaultPay, a production-style AWS platform defined entirely
 
 Working with: AWS, Terraform, Docker, Linux
 
-Featured project: VaultPay — production-style cloud infrastructure you can stand up from scratch
+Featured project: [VaultPay](https://github.com/eneyid10/vaultpay-infrastructure) — production-style cloud infrastructure you can stand up from scratch
 
 Connect - https://www.linkedin.com/in/eneyid/
 
